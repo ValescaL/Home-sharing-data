@@ -7,10 +7,23 @@
 .bg-image-1 {
   background-image: url("https://images.unsplash.com/photo-1516139008210-96e45dccd83b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60min3");
 
-min-height: 50vh;
+  min-height: 50vh;
 }
 
 .bg-image-2 {
   background-image: url("https://images.unsplash.com/photo-1550483135-4a6b4cbc6469?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80");
 min-height: 30vh;
+}
+
+.bg-image-3 {
+  background-image: url("https://images.unsplash.com/photo-1550445892-85d98325dac1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80");
+  min-height: 30vh;
+}
+
+section {
+  padding-top: 20px;
+}
+
+.padded {
+  padding: 10px;
 }
