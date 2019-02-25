@@ -1,0 +1,28 @@
+/*
+tagmname
+.classname
+#idname
+*/
+
+body {
+  text-align: center;
+  color: black;
+  font-family: helvetica;
+  background-image: url("https://png.pngtree.com/thumb_back/fw800/20170103/pngtree-Journal-Pattern-Design-Drawing-background-photo-135471.jpg");
+  background-repeat: repeat;
+}
+
+p {
+ font-size: 22px;
+ background-color: white;
+ padding-top: 10px;
+}
+
+h1 {
+  background-color: white;
+  padding: 10px;
+}
+
+#div-header {
+  background-color: white;
+}
